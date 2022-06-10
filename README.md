@@ -6,9 +6,9 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/GitHub-911whatsyouremergency-blue">
- <img src="https://img.shields.io/github/stars/911whatsyouremergency/python-cgames?label=Stars">
- <img src="https://img.shields.io/github/forks/911whatsyouremergency/python-cgames?label=Forks">
- <img src="https://img.shields.io/github/last-commit/911whatsyouremergency/python-cgames?color=blue&label=Last%20commit">
+ <img src="https://img.shields.io/github/stars/911whatsyouremergency/txt-mixer?label=Stars">
+ <img src="https://img.shields.io/github/forks/911whatsyouremergency/txt-mixer?label=Forks">
+ <img src="https://img.shields.io/github/last-commit/911whatsyouremergency/txt-mixer?color=blue&label=Last%20commit">
 </p>
 
 ## Games list
